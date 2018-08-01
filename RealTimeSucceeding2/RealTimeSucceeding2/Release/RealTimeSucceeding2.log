@@ -1,0 +1,39 @@
+﻿  BuildingPiece.cpp
+  Entity.cpp
+  GameObject.cpp
+GameObject.cpp(174): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameObject.cpp(193): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObject.cpp(194): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameState.cpp
+  GameWorld.cpp
+GameWorld.cpp(61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+GameWorld.cpp(84): warning C4551: function call missing argument list
+GameWorld.cpp(126): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+GameWorld.cpp(127): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+GameWorld.cpp(145): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+GameWorld.cpp(146): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+GameWorld.cpp(220): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+GameWorld.cpp(302): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+GameWorld.cpp(303): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Map.cpp
+  MapTile.cpp
+  PlayerController_RTS.cpp
+  RTSBuilding.cpp
+  RTSUnit.cpp
+  TestLevel.cpp
+  main.cpp
+  particle.cpp
+  playerBullet.cpp
+playerBullet.cpp(28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+playerBullet.cpp(29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+playerBullet.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  playerUnit.cpp
+playerUnit.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  viz.cpp
+  Generating code
+  35 of 1368 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    28 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RealTimeSucceeding2.vcxproj -> C:\Users\Nathaniel\Desktop\RealTimeSucceeding2\Release\RealTimeSucceeding2.exe
+  RealTimeSucceeding2.vcxproj -> C:\Users\Nathaniel\Desktop\RealTimeSucceeding2\Release\RealTimeSucceeding2.pdb (Full PDB)

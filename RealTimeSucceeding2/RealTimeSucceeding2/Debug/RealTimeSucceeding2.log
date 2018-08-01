@@ -1,0 +1,5 @@
+﻿  Map.cpp
+c:\users\nathaniel\desktop\realtimesucceeding2\realtimesucceeding2\map.cpp(79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\nathaniel\desktop\realtimesucceeding2\realtimesucceeding2\map.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RealTimeSucceeding2.vcxproj -> C:\Users\Nathaniel\Desktop\RealTimeSucceeding2\Debug\RealTimeSucceeding2.exe
+  RealTimeSucceeding2.vcxproj -> C:\Users\Nathaniel\Desktop\RealTimeSucceeding2\Debug\RealTimeSucceeding2.pdb (Full PDB)
